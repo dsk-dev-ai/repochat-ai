@@ -16,8 +16,8 @@ In this example, we run RepoChat on the Next.js repository and ask about routing
 ```bash
 $ repochat chat https://github.com/vercel/next.js
 Cloning repository...
-Loaded 300 files.
-Split into 1200 chunks.
+Loaded 80 files
+Split into 600 chunks
 Vector database created.
 RepoChat is ready! Ask a question (type 'exit' to quit):
 
