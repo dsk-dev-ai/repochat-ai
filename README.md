@@ -1,11 +1,13 @@
 # RepoChat AI
 
-Chat with any GitHub repository using local AI.  
-Understand codebases instantly with natural language.
+Chat with any GitHub repository using local AI.
 
-**RepoChat AI** lets you ask questions about a repo’s source code. It works offline using [Ollama](https://ollama.com/) and [LangChain](https://docs.langchain.com/) under the hood.
+Understand codebases instantly using natural language.
 
-⭐ Star this repo if it helps you!
+Built with:
+Python • LangChain • Ollama • ChromaDB
+
+⭐ Star this repository if it helps you!
 
 ## Demo
 
