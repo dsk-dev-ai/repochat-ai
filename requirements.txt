@@ -1,0 +1,8 @@
+langchain
+chromadb
+ollama
+gitpython
+typer
+rich
+tqdm
+pytest

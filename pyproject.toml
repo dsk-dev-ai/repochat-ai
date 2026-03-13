@@ -1,0 +1,29 @@
+# pyproject.toml
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "repochat-ai"
+version = "0.1.0"
+description = "Chat with any GitHub repository using local AI (Ollama)."
+authors = [
+    { name="Your Name", email="you@example.com" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+keywords = ["ai", "git", "langchain", "ollama", "chroma", "developer-tools"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License"
+]
+dependencies = [
+    "langchain",
+    "chromadb",
+    "ollama",
+    "gitpython",
+    "typer",
+    "rich",
+    "tqdm"
+]
